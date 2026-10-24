@@ -1,4 +1,5 @@
-Politique de Confidentialité de HabitPopDernière mise à jour : 4 août 2026La protection de vos données personnelles est une priorité absolue. Cette politique de confidentialité explique comment HabitPop gère vos informations.
+Politique de Confidentialité de HabitPopDernière mise à jour : 4 août 2026
+La protection de vos données personnelles est une priorité absolue. Cette politique de confidentialité explique comment HabitPop gère vos informations.
 
 1. Collecte et stockage des données
 L'application collecte l'adresse e-mail de l'utilisateur uniquement pour la gestion et l'authentification de son compte. De plus, des identifiants d'appareil peuvent être traités par notre partenaire publicitaire (Google AdMob) pour la diffusion d'annonces.
